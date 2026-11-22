@@ -1,4 +1,6 @@
 ﻿# AntiDumpTool • Unity IL2CPP Protector
+<img width="993" height="691" alt="изображение" src="https://github.com/user-attachments/assets/964bc8a4-70bc-4c27-ad69-f214c7e928c4" />
+
 
 A standalone PE patcher and metadata protector for **Unity IL2CPP (x64)** builds, designed to prevent static dumping (`Il2CppDumper`, `Cpp2IL`) and basic debugging without external proxy DLLs.
 
